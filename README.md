@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/1XJhQBe.png"/>
+</p>
+
 ## GitHub Contribution Script
 
 I am posting this for educational purposes only.  
