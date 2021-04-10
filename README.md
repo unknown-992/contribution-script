@@ -18,6 +18,16 @@ A: If you don't know how to work this then you shouldn't be messing with it. But
 1. Make a new private repository and clone it using `SSH`.
 2. Within your cloned repository make two new files, `index.js` and `data.json`.
 3. Paste the source provided in `index.js` and replace `100` on line **11** with however many contributions you want to make.
+
+Example:
+```js
+//this will send 500 contributions.
+let requests = 500;
+
+//this will send 10 contributions.
+let requests = 10;
+```
+
 4. Type `node index` in your terminal.
 
 ### Q: Can this get me banned?
