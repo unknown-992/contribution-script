@@ -8,7 +8,7 @@ const filepath = './data.json';
 
 // amount of contributions to make.
 // change this to what ever you want.
-let requests = 10;
+let requests = 100;
 
 // log amount of requests to make.
 console.log(`Sending ${requests.toLocaleString()} contribution requests...\n`);
