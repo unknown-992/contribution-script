@@ -1,5 +1,7 @@
 <p align="center">
+    <a href="https://discord.gg/VKJeg6nvSH">
   <img src="https://i.imgur.com/1XJhQBe.png"/>
+    </a>
 </p>
 
 ## GitHub Contribution Script
