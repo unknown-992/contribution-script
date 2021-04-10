@@ -1,6 +1,7 @@
 ## GitHub Contribution Script
 
-I am posting this for educational purposes only. I don't recommend you to do this to get an unfair advantage over others.
+I am posting this for educational purposes only.  
+I don't recommend you to do this to get an unfair advantage over others.
 
 ###### Before you continue:
 - Make sure you have installed [NPM](https://www.npmjs.com/get-npm).
