@@ -18,7 +18,7 @@ I don't recommend you to do this to get an unfair advantage over others.
 A: If you don't know how to work this then you shouldn't be messing with it. But here's a how-to regardless.
 1. Make a new private repository and clone it using `SSH`.
 2. Within your cloned repository make two new files, `index.js` and `data.json`.
-3. Paste the source provided in `index.js` and replace `100` on line **11** with however many contributions you want to make.
+3. Use the source provided in `index.js` and replace `100` on line **11** with the amount of requests you want to make.
 
 Example:
 ```js
@@ -32,7 +32,7 @@ let requests = 10;
 4. Type `node index` in your terminal.
 
 ### Q: Can this get me banned?
-A: Honestly, I have no idea. I'm not responsible for anyone using this for an unfair advantage.
+A: Honestly, I have no idea. I'm not responsible for anyone using this for an unfair advantage. Use this at your own risk.
 
 ### Q: Why are you releasing this?
 A: I was bored and figured why not, enjoy.
