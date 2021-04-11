@@ -34,7 +34,7 @@ const commit = loop => {
 
     // get random date and define data.
     const date = moment()
-        // .subtract(2, 'y').add(1, 'd')
+         .subtract(1, 'y').add(1, 'd')
         .add(x, 'w').add(y, 'd').format();
     const data = {
         date: date,
