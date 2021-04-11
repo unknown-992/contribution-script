@@ -20,6 +20,30 @@ I don't recommend you to do this to get an unfair advantage over others.
 - `simple-git`
 - `random`
 
+### Installation:
+`git clone git@github.com:armfxl/contribution-script.git`
+
+### Example Usage:
+
+###### Make contributions in the past:
+You can make contribution requests in the **past**, meaning can have contributions before you even joined GitHub.
+
+```js
+    // change x to get a random number between 0-100,
+    const x = random.int(0, 100);
+    const y = random.int(0, 7);
+
+    // get random date and define data.
+    const date = moment()
+        // subtract 'x' years from your contribution date.
+        .subtract(x, 'y').add(1, 'd')
+        .add(x, 'w').add(y, 'd').format();
+    const data = {
+        date: date,
+        text: 'made by armful#0001'
+    }
+```
+
 ### Q: How do I use this?
 A: If you don't know how to work this then you shouldn't be messing with it. But here's a how-to regardless.
 1. Make a new private repository and clone it using `SSH`.
@@ -28,10 +52,10 @@ A: If you don't know how to work this then you shouldn't be messing with it. But
 
 Example:
 ```js
-//this will send 500 contributions.
+// this will send 500 contributions.
 let requests = 500;
 
-//this will send 10 contributions.
+// this will send 10 contributions.
 let requests = 10;
 ```
 
