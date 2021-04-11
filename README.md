@@ -21,7 +21,7 @@ I don't recommend you to do this to get an unfair advantage over others.
 - `random`
 
 ### Installation:
-`git clone git@github.com:armfxl/contribution-script.git`
+    git clone git@github.com:armfxl/contribution-script.git
 
 ### Example Usage:
 
@@ -44,6 +44,8 @@ You can make contribution requests in the **past**, meaning can have contributio
     }
 ```
 
+---
+
 ### Q: How do I use this?
 A: If you don't know how to work this then you shouldn't be messing with it. But here's a how-to regardless.
 1. Make a new private repository and clone it using `SSH`.
@@ -61,8 +63,12 @@ let requests = 10;
 
 4. Type `node index` in your terminal.
 
+---
+
 ### Q: Can this get me banned?
 A: Honestly, I have no idea. I'm not responsible for anyone using this for an unfair advantage. Use this at your own risk.
+
+---
 
 ### Q: Why are you releasing this?
 A: I was bored and figured why not, enjoy.
